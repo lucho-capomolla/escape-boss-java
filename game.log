@@ -1,0 +1,1045 @@
+[2026-08-19 20:05:34.650] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-19 20:05:34.662] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-19 20:05:34.678] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-19 20:05:34.685] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-19 20:05:34.699] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-19 20:05:34.799] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-19 20:05:34.893] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:05:38.116] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-19 20:05:38.117] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-19 20:05:39.763] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:05:39.763] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:05:39.763] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-19 20:05:44.147] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:05:44.147] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:05:44.147] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-19 20:05:47.772] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-19 20:05:47.804] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-19 20:05:47.804] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-19 20:05:47.817] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:05:47.862] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:05:47.862] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-19 20:05:51.701] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:05:52.159] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-19 20:05:52.160] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-19 20:05:52.160] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-19 20:05:52.160] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:05:52.160] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:05:52.160] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-19 20:05:53.172] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:05:55.372] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:01.158] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:04.662] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:06.925] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:07.918] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:13.302] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:16.559] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:06:16.559] [INFO ] [WGame] clear(): se sacan 30 visuals del tablero
+[2026-08-19 20:06:16.587] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:18.950] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:06:18.950] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:06:18.952] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:19.334] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:06:19.335] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:06:19.337] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:28.592] [INFO ] [WGame] stop(): deteniendo el juego (2 onTick activos)
+[2026-08-19 20:06:33.872] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-19 20:06:33.884] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-19 20:06:33.902] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-19 20:06:33.912] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-19 20:06:33.935] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-19 20:06:33.998] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-19 20:06:34.041] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:43.851] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-19 20:06:43.851] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-19 20:06:44.906] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:06:44.906] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:06:44.907] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-19 20:06:52.911] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-19 20:06:52.929] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-19 20:06:52.930] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-19 20:06:52.930] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:06:52.945] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:06:52.945] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-19 20:06:55.218] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:01.628] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:02.284] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:04.300] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:04.964] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:06.036] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:08.508] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:11.061] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:12.156] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:16.120] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-19 20:07:16.120] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-19 20:07:16.121] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-19 20:07:16.121] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-19 20:07:16.121] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-19 20:07:16.121] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:07:16.121] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-19 20:07:23.661] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:07:28.142] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:29.550] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:31.646] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:33.494] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:42.808] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:47.679] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:54.536] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:07:58.561] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:07:59.088] [WARN ] [Sound] 'Sonidos/NoChica.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:08:01.993] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:08:03.537] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-08-19 20:08:03.537] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-19 20:08:03.537] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-08-19 20:08:03.537] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-08-19 20:08:03.538] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-08-19 20:08:03.538] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:08:03.538] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-19 20:08:15.130] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:08:32.356] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:08:32.700] [WARN ] [Jugador] Eto no eh comida papi
+[2026-08-19 20:08:57.239] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:09:19.585] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:09:35.620] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.666] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.712] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.759] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.805] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.851] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.897] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.944] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:35.991] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.038] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.085] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.131] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.177] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.224] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.271] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.318] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.366] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.367] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.413] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.414] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.460] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.460] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.506] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.506] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.552] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.552] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.598] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.598] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.646] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.646] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.693] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.693] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.741] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.741] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.789] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.790] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.835] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.836] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.880] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.880] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.927] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.927] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.972] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:36.972] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.019] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.019] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.066] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.066] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.113] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.114] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.159] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.159] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.205] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.205] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.253] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.253] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.300] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.300] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.347] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.347] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.395] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.395] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.442] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.442] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.488] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.488] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.534] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.534] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.581] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.581] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.626] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.626] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.673] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.673] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.720] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.720] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.767] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.767] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.813] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.813] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.859] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.859] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.906] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.906] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.953] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:37.953] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.000] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.000] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.047] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.047] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.094] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.094] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.140] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.140] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.186] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.186] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.233] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.233] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.280] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.280] [WARN ] [GamePanel] No se encontró resources/Oficina/Carpinchito.png — se dibuja un placeholder
+[2026-08-19 20:09:38.283] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:09:38.283] [INFO ] [WGame] clear(): se sacan 34 visuals del tablero
+[2026-08-19 20:09:38.286] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:09:38.523] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:09:38.523] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:09:38.525] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:09:50.296] [INFO ] [WGame] stop(): deteniendo el juego (3 onTick activos)
+[2026-08-19 20:09:50.528] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:09:55.106] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-19 20:09:55.116] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-19 20:09:55.129] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-19 20:09:55.136] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-19 20:09:55.149] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-19 20:09:55.200] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-19 20:09:55.237] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:09:56.871] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-19 20:09:56.871] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-19 20:09:58.086] [INFO ] [jefe1] elegirDificultad: nivel=1000ms entre movimientos
+[2026-08-19 20:09:58.086] [INFO ] [jefe2] elegirDificultad: nivel=1000ms entre movimientos
+[2026-08-19 20:09:58.086] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-19 20:10:06.100] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-19 20:10:06.119] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-19 20:10:06.119] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-19 20:10:06.119] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:06.134] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:10:06.134] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-19 20:10:07.950] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:11.014] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:12.526] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:12.830] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:10:12.990] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:10:14.126] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:15.295] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:17.110] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:19.431] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:20.128] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:21.423] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:23.280] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:26.848] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:10:28.416] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:30.392] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:30.752] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:30.753] [INFO ] [WGame] clear(): se sacan 28 visuals del tablero
+[2026-08-19 20:10:30.755] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:30.904] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:30.904] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:30.906] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:31.016] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:31.016] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:31.019] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:31.568] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:31.569] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:31.571] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:31.752] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:31.753] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:31.755] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:31.784] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:31.785] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:31.787] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:31.888] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:31.888] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:31.890] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:32.040] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-19 20:10:32.040] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-19 20:10:32.042] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:42.769] [INFO ] [WGame] stop(): deteniendo el juego (2 onTick activos)
+[2026-08-19 20:10:42.908] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:43.031] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:43.573] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:43.759] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:43.790] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:43.897] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:44.052] [INFO ] [WGame] stop(): deteniendo el juego (0 onTick activos)
+[2026-08-19 20:10:46.788] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-19 20:10:46.799] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-19 20:10:46.815] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-19 20:10:46.823] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-19 20:10:46.841] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-19 20:10:46.889] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-19 20:10:46.938] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:51.059] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-19 20:10:51.059] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-19 20:10:51.571] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:10:51.571] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-19 20:10:51.571] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-19 20:10:59.576] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-19 20:10:59.594] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-19 20:10:59.594] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-19 20:10:59.594] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:10:59.609] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:10:59.609] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-19 20:11:01.059] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:03.884] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:05.739] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:06.172] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:07.195] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:09.124] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:11.052] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:12.852] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:13.908] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:16.196] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:17.288] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-19 20:11:17.288] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-19 20:11:17.289] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-19 20:11:17.289] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-19 20:11:17.289] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-19 20:11:17.289] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:11:17.289] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-19 20:11:20.165] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:20.429] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:21.197] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:21.413] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:23.110] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:23.309] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:24.677] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:25.958] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:27.054] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:32.654] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:34.862] [WARN ] [Jugador] No es por ahi man
+[2026-08-19 20:11:36.727] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:52.336] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:52.848] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:55.736] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:11:57.381] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-08-19 20:11:57.381] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-19 20:11:57.381] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-08-19 20:11:57.381] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-08-19 20:11:57.382] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-08-19 20:11:57.382] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-19 20:11:57.382] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-19 20:12:02.442] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:12:05.041] [WARN ] [Jugador] Eto no eh comida papi
+[2026-08-19 20:12:05.402] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:12:07.250] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:12:10.418] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:12:11.465] [INFO ] [jefe1] Game over: atrapó al jugador en (10, 4)
+[2026-08-19 20:12:11.465] [INFO ] [WGame] clear(): se sacan 31 visuals del tablero
+[2026-08-19 20:12:11.467] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-19 20:12:23.476] [INFO ] [WGame] stop(): deteniendo el juego (3 onTick activos)
+[2026-08-20 00:05:07.205] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 00:05:07.219] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 00:05:07.249] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 00:05:07.255] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 00:05:07.271] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 00:05:07.325] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=30, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 00:05:07.376] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 00:05:15.568] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 00:05:15.579] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 00:05:15.594] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 00:05:15.601] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 00:05:15.616] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 00:05:15.660] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=90, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 00:05:15.700] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 00:05:26.035] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 00:05:26.046] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 00:05:26.061] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 00:05:26.069] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 00:05:26.083] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 00:05:26.126] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 00:05:26.167] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:55:25.898] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 16:55:25.928] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 16:55:25.948] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 16:55:25.957] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 16:55:25.975] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 16:55:26.078] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 16:55:26.178] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:55:29.572] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 16:55:32.156] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 16:55:32.157] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 16:55:33.765] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 16:55:33.765] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 16:55:33.765] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 16:55:41.777] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 16:55:41.855] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 16:55:41.855] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 16:55:41.869] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:55:41.912] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 16:55:41.913] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 16:55:44.877] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:55:47.620] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:55:57.212] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:55:58.413] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:00.397] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:01.550] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:17.463] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:19.095] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:20.311] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:26.976] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 16:56:26.979] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-08-20 16:56:26.979] [INFO ] [WGame] clear(): se sacan 30 visuals del tablero
+[2026-08-20 16:56:27.012] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:27.109] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 16:56:27.109] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 16:56:27.111] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:56:39.021] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 16:56:39.269] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 16:56:48.778] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 16:56:48.790] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 16:56:48.807] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 16:56:48.814] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 16:56:48.827] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 16:56:48.873] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 16:56:48.917] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:57:38.145] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 16:57:38.145] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 16:57:39.543] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 16:57:40.952] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 16:57:40.952] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 16:57:40.952] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 16:57:48.964] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 16:57:48.982] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 16:57:48.982] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 16:57:48.982] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:57:48.997] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 16:57:48.997] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 16:57:50.481] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:57:52.025] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:57:53.840] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:57:57.977] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:00.681] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:01.281] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:01.977] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:04.625] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:04.969] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 16:58:05.705] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 16:58:06.674] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:08.258] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:10.066] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:11.902] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-20 16:58:11.902] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 16:58:11.903] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-20 16:58:11.903] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-20 16:58:11.903] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-20 16:58:11.903] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 16:58:11.903] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 16:58:15.819] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 16:58:19.235] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:21.320] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:26.667] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:28.163] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:29.820] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 16:58:29.823] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-08-20 16:58:29.824] [INFO ] [WGame] clear(): se sacan 30 visuals del tablero
+[2026-08-20 16:58:29.826] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:29.996] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 16:58:29.996] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 16:58:29.998] [WARN ] [Sound] 'Sonidos/MadWorld.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:36.724] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-08-20 16:58:41.841] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 16:58:42.014] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 16:58:45.422] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 16:58:45.433] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 16:58:45.449] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 16:58:45.456] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 16:58:45.470] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 16:58:45.515] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 16:58:45.550] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:47.986] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 16:58:48.470] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 16:58:48.471] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 16:58:48.983] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 16:58:48.983] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 16:58:48.983] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 16:58:56.988] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 16:58:57.006] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 16:58:57.006] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 16:58:57.006] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:58:57.021] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 16:58:57.021] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 16:58:58.856] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:02.247] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:03.672] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:04.080] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:05.055] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:06.184] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 16:59:08.607] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:09.272] [WARN ] [Sound] 'Sonidos/Impresion.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:09.984] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:10.465] [WARN ] [Sound] 'Sonidos/Wrong.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:11.984] [WARN ] [Sound] 'Sonidos/Wrong.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:16.537] [WARN ] [Sound] 'Sonidos/Carpeta.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:17.113] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:17.929] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-20 16:59:17.929] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 16:59:17.930] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-20 16:59:17.930] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-20 16:59:17.930] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-20 16:59:17.930] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 16:59:17.930] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 16:59:25.026] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:26.146] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:30.914] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:31.586] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:35.738] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:38.475] [WARN ] [Sound] 'Sonidos/ThankYou.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:40.079] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-08-20 16:59:40.079] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 16:59:40.079] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-08-20 16:59:40.079] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-08-20 16:59:40.079] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-08-20 16:59:40.080] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 16:59:40.080] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 16:59:44.419] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:46.747] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:48.467] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 16:59:49.411] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:50.596] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 16:59:54.580] [WARN ] [Jugador] Eto no eh comida papi
+[2026-08-20 16:59:58.405] [WARN ] [Sound] 'Sonidos/Burp.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:59.817] [INFO ] [Niveles] nivel3 completo (6 objetos recuperados) -> terminando juego
+[2026-08-20 16:59:59.817] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 16:59:59.817] [INFO ] [PantallaJuego] terminarJuego(): el jugador ganó
+[2026-08-20 16:59:59.820] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-08-20 16:59:59.821] [WARN ] [Sound] 'Sonidos/Yodelling.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:59.821] [WARN ] [Sound] 'Sonidos/TurnDownForWhat.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 16:59:59.821] [INFO ] [WGame] clear(): se sacan 31 visuals del tablero
+[2026-08-20 17:00:09.836] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 17:15:59.809] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 17:15:59.820] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 17:15:59.837] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 17:15:59.844] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 17:15:59.860] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 17:15:59.908] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 17:15:59.946] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 17:38:47.856] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 17:38:47.866] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 17:38:47.882] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 17:38:47.888] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 17:38:47.901] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 17:38:47.945] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 17:38:47.989] [WARN ] [Sound] 'Sonidos/HouseOfTheRisingSun.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 17:51:41.286] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 17:51:41.296] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 17:51:41.313] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 17:51:41.320] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 17:51:41.333] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 17:51:41.377] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 17:51:49.552] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 17:51:50.147] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 17:51:50.147] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 17:51:51.213] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 17:51:51.213] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 17:51:51.213] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 17:51:59.222] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 17:51:59.256] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 17:51:59.256] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 17:51:59.256] [WARN ] [Sound] 'Sonidos/MisionImposible.mp3' no es .wav. javax.sound.sampled solo soporta wav/au/aiff de forma nativa. Convertilo a .wav o agregá soporte de mp3.
+[2026-08-20 17:51:59.272] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 17:51:59.273] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 17:52:06.622] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-08-20 17:52:09.000] [INFO ] [jefe1] Game over: atrapó al jugador en (10, 1)
+[2026-08-20 17:52:09.003] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-08-20 17:52:09.004] [INFO ] [WGame] clear(): se sacan 33 visuals del tablero
+[2026-08-20 17:52:21.023] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 17:53:14.978] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 17:53:14.989] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 17:53:15.007] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 17:53:15.014] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 17:53:15.028] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 17:53:15.074] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 17:53:15.555] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 17:53:17.621] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 17:53:17.622] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 17:53:18.827] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 17:53:18.828] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 17:53:18.828] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 17:53:26.842] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 17:53:26.879] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 17:53:26.879] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 17:53:26.924] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 17:53:26.924] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 17:53:33.518] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:53:34.053] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:53:42.094] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:53:47.605] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-20 17:53:47.605] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 17:53:47.605] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-20 17:53:47.606] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-20 17:53:47.606] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-20 17:53:47.606] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 17:53:47.606] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 17:54:07.990] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-08-20 17:54:07.990] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 17:54:07.990] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-08-20 17:54:07.991] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-08-20 17:54:07.991] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-08-20 17:54:07.991] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 17:54:07.991] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 17:54:21.586] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:54:40.891] [INFO ] [Niveles] nivel3 completo (6 objetos recuperados) -> terminando juego
+[2026-08-20 17:54:40.891] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 17:54:40.891] [INFO ] [PantallaJuego] terminarJuego(): el jugador ganó
+[2026-08-20 17:54:40.919] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-08-20 17:54:40.925] [INFO ] [WGame] clear(): se sacan 33 visuals del tablero
+[2026-08-20 17:54:45.183] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-08-20 17:54:50.940] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 17:55:29.452] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 17:55:29.463] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 17:55:29.480] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 17:55:29.488] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 17:55:29.502] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 17:55:29.546] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 17:55:30.042] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 17:55:32.952] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-08-20 17:55:47.755] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 17:55:47.755] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 17:56:36.017] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 17:56:36.944] [INFO ] [jefe1] elegirDificultad: nivel=1000ms entre movimientos
+[2026-08-20 17:56:36.944] [INFO ] [jefe2] elegirDificultad: nivel=1000ms entre movimientos
+[2026-08-20 17:56:36.944] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 17:56:44.961] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 17:56:44.994] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 17:56:44.994] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 17:56:45.037] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 17:56:45.037] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 17:56:58.281] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:57:01.458] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:57:08.819] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 17:57:09.187] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 17:57:09.204] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-08-20 17:57:09.204] [INFO ] [WGame] clear(): se sacan 30 visuals del tablero
+[2026-08-20 17:57:21.231] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 23:16:32.056] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 23:16:32.066] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 23:16:32.082] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 23:16:32.089] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 23:16:32.103] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 23:16:32.151] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 23:16:33.022] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 23:16:37.549] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 23:16:37.550] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 23:16:38.907] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 23:16:38.908] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 23:16:38.908] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 23:16:46.922] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 23:16:46.956] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 23:16:46.956] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 23:16:47.438] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:16:47.439] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 23:17:19.575] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:17:19.592] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-08-20 23:17:19.592] [INFO ] [WGame] clear(): se sacan 28 visuals del tablero
+[2026-08-20 23:17:31.763] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 23:17:35.431] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 23:17:35.441] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 23:17:35.456] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 23:17:35.462] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 23:17:35.477] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 23:17:35.522] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 23:17:35.985] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 23:17:37.603] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 23:17:37.603] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 23:17:38.546] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 23:17:38.546] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 23:17:38.546] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 23:17:46.549] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 23:17:46.589] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 23:17:46.589] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 23:17:46.633] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:17:46.633] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 23:18:03.661] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-20 23:18:03.662] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 23:18:03.662] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-20 23:18:03.662] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-20 23:18:03.662] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-20 23:18:03.663] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:18:03.663] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 23:18:05.748] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:18:15.839] [INFO ] [jefe2] Game over: atrapó al jugador en (13, 8)
+[2026-08-20 23:18:15.866] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-08-20 23:18:15.866] [INFO ] [WGame] clear(): se sacan 31 visuals del tablero
+[2026-08-20 23:18:27.883] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-08-20 23:18:31.454] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 23:18:31.465] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 23:18:31.483] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 23:18:31.490] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 23:18:31.505] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 23:18:31.551] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 23:18:32.041] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 23:18:33.472] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 23:18:33.473] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 23:18:34.846] [INFO ] [jefe1] elegirDificultad: nivel=1000ms entre movimientos
+[2026-08-20 23:18:34.847] [INFO ] [jefe2] elegirDificultad: nivel=1000ms entre movimientos
+[2026-08-20 23:18:34.847] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 23:18:42.858] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 23:18:42.908] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 23:18:42.909] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 23:18:42.958] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:18:42.959] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 23:18:45.631] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:18:45.992] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:18:46.159] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:19:01.777] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:01.792] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-08-20 23:19:01.792] [INFO ] [WGame] clear(): se sacan 31 visuals del tablero
+[2026-08-20 23:19:01.922] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:01.923] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:02.993] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:02.993] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:03.313] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:03.313] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:03.513] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:03.513] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:03.690] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:03.690] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:03.825] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:03.825] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:03.993] [INFO ] [Jugador] Game over: energía en 0
+[2026-08-20 23:19:03.993] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-08-20 23:19:12.156] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-08-20 23:19:16.426] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-08-20 23:19:16.437] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-08-20 23:19:16.454] [INFO ] [Configuraciones] Teclas configuradas
+[2026-08-20 23:19:16.461] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-08-20 23:19:16.475] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-08-20 23:19:16.519] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-08-20 23:19:16.995] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-08-20 23:19:18.172] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-08-20 23:19:18.173] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-08-20 23:19:19.051] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 23:19:19.051] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-08-20 23:19:19.052] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-08-20 23:19:27.054] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-08-20 23:19:27.091] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-08-20 23:19:27.091] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-08-20 23:19:27.135] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:19:27.135] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-08-20 23:19:41.769] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-08-20 23:19:41.770] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 23:19:41.770] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-08-20 23:19:41.770] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-08-20 23:19:41.770] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-08-20 23:19:41.770] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:19:41.771] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 23:20:00.004] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-08-20 23:20:00.004] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 23:20:00.004] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-08-20 23:20:00.005] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-08-20 23:20:00.005] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-08-20 23:20:00.005] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-08-20 23:20:00.005] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-08-20 23:20:02.103] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:20:06.168] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:20:06.607] [WARN ] [Jugador] No es por ahi man
+[2026-08-20 23:20:16.416] [INFO ] [Niveles] nivel3 completo (6 objetos recuperados) -> terminando juego
+[2026-08-20 23:20:16.416] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-08-20 23:20:16.416] [INFO ] [PantallaJuego] terminarJuego(): el jugador ganó
+[2026-08-20 23:20:16.433] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-08-20 23:20:16.507] [INFO ] [WGame] clear(): se sacan 31 visuals del tablero
+[2026-08-20 23:20:26.532] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-09-28 21:15:23.381] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:15:23.408] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:15:23.530] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:15:23.583] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:15:23.596] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:15:23.697] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:15:24.740] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:15:26.586] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:15:26.586] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:15:28.642] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:15:28.642] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:15:28.642] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 21:15:36.645] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 21:15:36.777] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 21:15:36.777] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 21:15:37.180] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:15:37.181] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 21:15:55.250] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:15:55.842] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:16:06.959] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-09-28 21:16:06.959] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 21:16:06.960] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-09-28 21:16:06.960] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-09-28 21:16:06.960] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-09-28 21:16:06.960] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:16:06.960] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-09-28 21:16:26.797] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-09-28 21:16:26.797] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 21:16:26.797] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-09-28 21:16:26.797] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-09-28 21:16:26.798] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-09-28 21:16:26.798] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:16:26.798] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-09-28 21:16:35.398] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:16:37.742] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:17:16.410] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:17:23.191] [INFO ] [Niveles] nivel3 completo (6 objetos recuperados) -> terminando juego
+[2026-09-28 21:17:23.191] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 21:17:23.191] [INFO ] [PantallaJuego] terminarJuego(): el jugador ganó
+[2026-09-28 21:17:23.208] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-09-28 21:17:23.290] [INFO ] [WGame] clear(): se sacan 30 visuals del tablero
+[2026-09-28 21:17:33.303] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-09-28 21:18:19.099] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:18:19.113] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:18:19.134] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:18:19.147] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:18:19.166] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:18:19.223] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:18:19.685] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:18:20.907] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:18:20.907] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:18:21.332] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:18:21.332] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:18:21.332] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 21:18:29.334] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 21:18:29.371] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 21:18:29.371] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 21:18:29.414] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:18:29.414] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 21:18:49.516] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:18:53.655] [INFO ] [jefe1] Game over: atrapó al jugador en (9, 4)
+[2026-09-28 21:18:53.672] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-09-28 21:18:53.673] [INFO ] [WGame] clear(): se sacan 29 visuals del tablero
+[2026-09-28 21:19:05.824] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-09-28 21:19:15.779] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:19:15.793] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:19:15.814] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:19:15.823] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:19:15.837] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:19:15.895] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:19:16.482] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:19:18.336] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:19:18.336] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:19:18.983] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:19:18.983] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:19:18.983] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 21:19:26.997] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 21:19:27.048] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 21:19:27.049] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 21:19:27.093] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:19:27.094] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 21:19:48.610] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:19:51.026] [INFO ] [Jugador] Game over: energía en 0
+[2026-09-28 21:19:51.044] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-09-28 21:19:51.044] [INFO ] [WGame] clear(): se sacan 28 visuals del tablero
+[2026-09-28 21:19:51.266] [INFO ] [Jugador] Game over: energía en 0
+[2026-09-28 21:19:51.266] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-09-28 21:20:03.070] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-09-28 21:20:03.287] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-09-28 21:23:39.913] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:23:39.924] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:23:39.941] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:23:39.947] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:23:39.961] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:23:40.008] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:23:40.507] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:23:43.467] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:23:43.467] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:23:44.146] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:23:44.146] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:23:44.146] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 21:23:52.151] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 21:23:52.185] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 21:23:52.185] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 21:23:52.227] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:23:52.228] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 21:24:07.307] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:17.948] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:23.261] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-09-28 21:24:23.261] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 21:24:23.262] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-09-28 21:24:23.262] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-09-28 21:24:23.262] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-09-28 21:24:23.262] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:24:23.262] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-09-28 21:24:26.582] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:30.982] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:31.190] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:41.357] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-09-28 21:24:41.357] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 21:24:41.357] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-09-28 21:24:41.357] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-09-28 21:24:41.358] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-09-28 21:24:41.358] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:24:41.358] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-09-28 21:24:44.216] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:45.111] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:48.743] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 21:24:59.326] [INFO ] [Niveles] nivel3 completo (6 objetos recuperados) -> terminando juego
+[2026-09-28 21:24:59.326] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 21:24:59.326] [INFO ] [PantallaJuego] terminarJuego(): el jugador ganó
+[2026-09-28 21:24:59.342] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-09-28 21:24:59.348] [INFO ] [WGame] clear(): se sacan 32 visuals del tablero
+[2026-09-28 21:25:09.359] [INFO ] [WGame] stop(): deteniendo el juego
+[2026-09-28 21:32:34.403] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:32:34.413] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:32:34.430] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:32:34.435] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:32:34.448] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:32:34.493] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:32:34.977] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:32:42.521] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:32:42.521] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:32:45.989] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-09-28 21:45:23.686] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:45:23.697] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:45:23.713] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:45:23.720] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:45:23.733] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:45:23.781] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:45:24.251] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:45:26.749] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:45:26.749] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:45:27.363] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:45:27.363] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:45:27.363] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 21:45:35.377] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 21:45:35.415] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 21:45:35.415] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 21:45:35.458] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:45:35.458] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 21:45:48.434] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-09-28 21:45:55.025] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:45:55.887] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-09-28 21:47:51.260] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 21:47:51.270] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 21:47:51.287] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 21:47:51.294] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 21:47:51.307] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 21:47:51.352] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 21:47:51.828] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 21:47:53.491] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 21:47:53.492] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 21:47:54.203] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:47:54.203] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 21:47:54.203] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 21:48:02.210] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 21:48:02.248] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 21:48:02.248] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 21:48:02.292] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 21:48:02.292] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 21:48:03.947] [INFO ] [WGame] Juego en pausa
+[2026-09-28 21:48:06.091] [INFO ] [WGame] Juego reanudado
+[2026-09-28 21:48:08.955] [INFO ] [WGame] Juego en pausa
+[2026-09-28 21:48:13.124] [INFO ] [WGame] Juego reanudado
+[2026-09-28 21:48:14.467] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-09-28 22:16:21.763] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 22:16:21.773] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 22:16:21.788] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 22:16:21.794] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 22:16:21.808] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 22:16:21.852] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 22:16:22.315] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 22:16:23.846] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 22:16:23.847] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 22:16:24.646] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 22:16:24.646] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 22:16:24.646] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 22:16:32.663] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 22:16:32.703] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 22:16:32.703] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 22:16:32.703] [WARN ] [Sound] No se encontró resources/Sonidos/MisionImposible.mp3
+[2026-09-28 22:16:32.718] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 22:16:32.718] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 22:16:35.527] [WARN ] [Sound] No se encontró resources/Sonidos/Impresion.mp3
+[2026-09-28 22:16:38.551] [WARN ] [Sound] No se encontró resources/Sonidos/Carpeta.mp3
+[2026-09-28 22:16:39.786] [INFO ] [jefe1] Game over: atrapó al jugador en (12, 2)
+[2026-09-28 22:16:39.790] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-09-28 22:16:39.790] [INFO ] [WGame] clear(): se sacan 33 visuals del tablero
+[2026-09-28 22:16:39.793] [WARN ] [Sound] No se encontró resources/Sonidos/MadWorld.mp3
+[2026-09-28 22:16:50.375] [INFO ] [WGame] Juego en pausa
+[2026-09-28 22:16:50.712] [INFO ] [WGame] Juego reanudado
+[2026-09-28 22:16:51.812] [INFO ] [PantallaJuego] volverAlMenu(): reiniciando la partida y mostrando el menú de inicio
+[2026-09-28 22:16:51.812] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-09-28 22:16:51.812] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 22:16:51.812] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoMenuInicio
+[2026-09-28 22:17:04.850] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 22:17:04.850] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 22:17:05.649] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 22:17:05.649] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 22:17:05.649] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 22:17:13.665] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 22:17:13.686] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 22:17:13.686] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 22:17:13.686] [WARN ] [Sound] No se encontró resources/Sonidos/MisionImposible.mp3
+[2026-09-28 22:17:13.686] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 22:17:13.686] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 22:17:18.874] [WARN ] [Sound] No se encontró resources/Sonidos/Impresion.mp3
+[2026-09-28 22:17:21.530] [WARN ] [Sound] No se encontró resources/Sonidos/Impresion.mp3
+[2026-09-28 22:17:21.826] [WARN ] [Sound] No se encontró resources/Sonidos/Impresion.mp3
+[2026-09-28 22:17:23.746] [INFO ] [jefe1] Game over: atrapó al jugador en (7, 2)
+[2026-09-28 22:17:23.746] [INFO ] [WGame] stopAllTicks(): deteniendo 2 onTick activos ([Perseguir1, Sacar tarjeta])
+[2026-09-28 22:17:23.746] [INFO ] [WGame] clear(): se sacan 34 visuals del tablero
+[2026-09-28 22:17:23.748] [WARN ] [Sound] No se encontró resources/Sonidos/MadWorld.mp3
+[2026-09-28 22:17:35.752] [INFO ] [PantallaJuego] volverAlMenu(): reiniciando la partida y mostrando el menú de inicio
+[2026-09-28 22:17:35.752] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-09-28 22:17:35.752] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 22:17:35.752] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoMenuInicio
+[2026-09-28 22:17:37.891] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-09-28 22:23:02.561] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 22:23:02.572] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 22:23:02.589] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 22:23:02.595] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 22:23:02.609] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 22:23:02.655] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 22:23:03.137] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)
+[2026-09-28 22:23:04.686] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 22:23:04.687] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 22:23:05.326] [INFO ] [jefe1] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 22:23:05.326] [INFO ] [jefe2] elegirDificultad: nivel=2000ms entre movimientos
+[2026-09-28 22:23:05.326] [INFO ] [MenuInicio] mostrarInstrucciones(): mostrando instrucciones (8s antes de arrancar)
+[2026-09-28 22:23:13.334] [INFO ] [MenuInicio] continuar(): cerrando menú, arrancando pantallaJuego
+[2026-09-28 22:23:13.368] [INFO ] [PantallaJuego] iniciar(): cargando nivel1
+[2026-09-28 22:23:13.368] [INFO ] [Niveles] === Cargando nivel1 ===
+[2026-09-28 22:23:13.408] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 22:23:13.408] [INFO ] [Configuraciones] cambiarEstado: EstadoDificultad -> EstadoJuego
+[2026-09-28 22:23:45.641] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 22:23:45.905] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 22:23:48.972] [INFO ] [Niveles] nivel1 completo (3 tareas entregadas) -> avanzando a nivel2
+[2026-09-28 22:23:48.972] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 22:23:48.973] [INFO ] [PantallaJuego] avanzarNivel: nivel1 -> nivel2
+[2026-09-28 22:23:48.973] [INFO ] [PantallaJuego] iniciar(): cargando nivel2
+[2026-09-28 22:23:48.973] [INFO ] [Niveles] === Cargando nivel2 ===
+[2026-09-28 22:23:48.973] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 22:23:48.973] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-09-28 22:24:08.176] [INFO ] [Niveles] nivel2 completo (3 compañeris ayudados) -> avanzando a nivel3
+[2026-09-28 22:24:08.176] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 22:24:08.176] [INFO ] [PantallaJuego] avanzarNivel: nivel2 -> nivel3
+[2026-09-28 22:24:08.176] [INFO ] [PantallaJuego] iniciar(): cargando nivel3
+[2026-09-28 22:24:08.177] [INFO ] [Niveles] === Cargando nivel3 ===
+[2026-09-28 22:24:08.177] [INFO ] [Configuraciones] Colisiones del jugador configuradas
+[2026-09-28 22:24:08.177] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoJuego
+[2026-09-28 22:24:10.187] [WARN ] [Jugador] No es por ahi man
+[2026-09-28 22:24:23.833] [INFO ] [Niveles] nivel3 completo (6 objetos recuperados) -> terminando juego
+[2026-09-28 22:24:23.833] [INFO ] [Niveles] pasarDeNivel(): nivel completado
+[2026-09-28 22:24:23.833] [INFO ] [PantallaJuego] terminarJuego(): el jugador ganó
+[2026-09-28 22:24:23.847] [INFO ] [WGame] stopAllTicks(): deteniendo 3 onTick activos ([Perseguir1, Sacar tarjeta, Perseguir2])
+[2026-09-28 22:24:23.854] [INFO ] [WGame] clear(): se sacan 31 visuals del tablero
+[2026-09-28 22:24:33.861] [INFO ] [PantallaJuego] volverAlMenu(): reiniciando la partida y mostrando el menú de inicio
+[2026-09-28 22:24:33.861] [INFO ] [WGame] clear(): se sacan 1 visuals del tablero
+[2026-09-28 22:24:33.861] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 22:24:33.861] [INFO ] [Configuraciones] cambiarEstado: EstadoJuego -> EstadoMenuInicio
+[2026-09-28 22:24:36.758] [INFO ] [MenuInicio] elegirDificultad(): mostrando pantalla de dificultad
+[2026-09-28 22:24:36.758] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoDificultad
+[2026-09-28 22:24:39.574] [INFO ] [WGame] Pantalla completa desactivada, vuelve a ventana
+[2026-09-28 22:27:52.724] [INFO ] [Log] === Nueva sesión de juego: log en game.log ===
+[2026-09-28 22:27:52.735] [INFO ] [TheGame] Arrancando Escape Boss...
+[2026-09-28 22:27:52.750] [INFO ] [Configuraciones] Teclas configuradas
+[2026-09-28 22:27:52.756] [INFO ] [MenuInicio] iniciar(): mostrando pantalla de inicio
+[2026-09-28 22:27:52.769] [INFO ] [Configuraciones] cambiarEstado: EstadoMenuInicio -> EstadoMenuInicio
+[2026-09-28 22:27:52.813] [INFO ] [WGame] start(): título='Escape Boss', 19x13, cellSize=60, boardGround=Fondos/Fondo.png, visuals=1
+[2026-09-28 22:27:53.369] [INFO ] [WGame] Pantalla completa activada (modo exclusivo)

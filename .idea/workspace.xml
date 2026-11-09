@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9913aee0-b30b-4420-a757-2a7c2f7a6012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EscapeBoss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Jefe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/MenuInicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Niveles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Objetivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Oficina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/PantallaJuego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Personaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juego/Tarjetas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/GameObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/Sound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/Visual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wgame/WGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +41,7 @@
     "Application.EscapeBoss.executor": "Run",
     "Application.TheGame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Data User/Desktop/Escape Boss/EscapeBoss/src/wgame"
   }
